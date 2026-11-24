@@ -1,0 +1,36 @@
+APARTMENT STUDIO
+
+Extract the entire ZIP, then double-click Start-Apartment-Studio.cmd.
+The included My-Apartment.glb is a separate model you can open in Blender.
+Keep the launcher window open while you use the apartment. The launcher
+opens your browser on this computer. It uses Node.js 22 or later.
+
+Click Walkthrough to start in the hallway. Use WASD to walk and the
+mouse to look. Esc frees the cursor. T opens and focuses Design chat.
+If mouse capture is unavailable, drag to look and use WASD to move.
+Rooms lets you enter a particular room directly.
+
+Click once to pin the first visible object. Hold Shift to see the live
+segment and Shift-click each additional corner. Walk between clicks
+if you need a better angle. On a flat surface, three or more ordered
+corners show the filled area. Backspace removes the last point.
+
+In Design chat, choose Continue with ChatGPT, select your account and
+allow plan usage. On return, the app restores your pins and draft.
+Examples: select the plastic chair and ask for a sage green finish.
+Outline a wall and ask for a cat wall maze with staggered platforms.
+The assistant can recolor model objects, build objects from groups of
+geometric parts in a selected area, remove additions, and answer questions.
+Submit only when you are ready. Your request, selected geometry, scene
+inventory and recent chat context go to OpenAI. The source video stays
+outside the app.
+
+Edits are saved in this browser at the local app address. Use Undo and
+Redo at the top. Model settings lets you adjust the estimated dimensions
+and export the current full-height apartment to a .glb file for Blender.
+Closing the launcher stops the local service. Reopen it to continue.
+
+The plan follows your sketch. The walkthrough footage supplies the
+visible finishes and furnishings. The exterior view, room dimensions,
+fixture positions and concealed surfaces are approximations. The
+unfilmed second bedroom is an unfurnished room shell.
